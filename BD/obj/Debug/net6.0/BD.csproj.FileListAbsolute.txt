@@ -1,0 +1,14 @@
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\bin\Debug\net6.0\BD.deps.json
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\bin\Debug\net6.0\BD.dll
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\bin\Debug\net6.0\BD.pdb
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.csproj.AssemblyReference.cache
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.AssemblyInfoInputs.cache
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.AssemblyInfo.cs
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.csproj.CoreCompileInputs.cache
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.dll
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\ref\BD.dll
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.pdb
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\bin\Debug\net6.0\BD.runtimeconfig.json
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\BD.genruntimeconfig.cache
+D:\Projekty\Visual\Semestr 6\PdIWTA\ProjektSklepu\BD\obj\Debug\net6.0\refint\BD.dll
