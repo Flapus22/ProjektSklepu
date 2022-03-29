@@ -1,7 +1,6 @@
-﻿namespace ProjektSklepu.Models
+﻿namespace ProjektSklepu.Models;
+
+public class ShopItemViewModel
 {
-    public class ShopItemViewModel
-    {
-        public List<ShopViewModel> ShopViewModels { get; set; } 
-    }
+    public List<ShopViewModel> ShopViewModels { get; set; } 
 }

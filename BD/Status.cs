@@ -1,10 +1,9 @@
-﻿namespace BD
+﻿namespace BD;
+
+public enum Status
 {
-    public enum Status
-    {
-        Rozpoczete,
-        ZlozoneDoRealizacji,
-        WRealizacji,
-        Zakonczone
-    }
+    Rozpoczete,
+    ZlozoneDoRealizacji,
+    WRealizacji,
+    Zakonczone
 }
