@@ -1,5 +1,5 @@
 ﻿namespace BD;
-public class Produkt
+public class Produkt : IEntity<int>
 {
     public int Id { get; set; }
     public string Nazwa { get; set; }

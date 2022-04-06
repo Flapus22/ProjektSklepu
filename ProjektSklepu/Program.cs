@@ -1,15 +1,20 @@
 using BD;
 using ProjektSklepu.Models;
 using Microsoft.EntityFrameworkCore;
+using ProjektSklepu.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<Context>();
+builder.Services.AddScoped<IRepositoryService<Produkt>, RepositoryService<Produkt>>();
+builder.Services.AddScoped<IRepositoryService<Kategoria>, RepositoryService<Kategoria>>();
+
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

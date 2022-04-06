@@ -1,4 +1,6 @@
-﻿namespace ProjektSklepu.Models;
+﻿using ProjektSklepu.Services;
+
+namespace ProjektSklepu.Models;
 
 public class ProduktViewModel
 {
@@ -7,5 +9,4 @@ public class ProduktViewModel
     public string? Opis { get; set; }
     public decimal Cena { get; set; }
     public KategoriaViewModel Kategoria { get; set; }
-
 }

@@ -18,7 +18,8 @@ public class Context : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         //modelBuilder.Entity<ProduktWSklepie>().HasKey(x => new { x.SklepID, x.ProduktId });
-        
+
+
         modelBuilder.Entity<ProduktWSklepie>()
             .HasOne(x => x.Sklep)
             .WithMany(x => x.ProduktWSklepie)
@@ -29,7 +30,9 @@ public class Context : DbContext
             .WithMany(x => x.ProduktWSklepie)
             .HasForeignKey(x => x.ProduktId);
     }
-    
+
+
+
 
     public DbSet<Produkt> Products { get; set; }
     public DbSet<ProduktWSklepie> ShopProducts { get; set; }
